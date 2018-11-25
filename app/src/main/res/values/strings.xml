@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentTabHostDemo</string>
+    <string name="home">主页</string>
+    <string name="hot">热点</string>
+    <string name="cart">购物车</string>
+    <string name="discover">发现</string>
+    <string name="mine">我的</string>
+
+</resources>
